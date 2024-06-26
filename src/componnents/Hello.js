@@ -13,10 +13,10 @@ const Hello =()=> {
 
 // Without JSX
 
-return (React.createElement('div', {id: "Hello", class: 'dummyclass'},
-React.createElement('h1', null, 'Hello Ian')
- )
-)
+// return (React.createElement('div', {id: "Hello", class: 'dummyclass'},
+// React.createElement('h1', null, 'Hello Ian')
+//  )
+// )
 }
 
 export default Hello
